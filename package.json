@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/mmaustin/node-tutorial/issues"
   },
-  "homepage": "https://github.com/mmaustin/node-tutorial#readme"
+  "homepage": "https://github.com/mmaustin/node-tutorial#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
 }
